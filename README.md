@@ -129,4 +129,4 @@ PlantVillage (Kaggle): https://www.kaggle.com/datasets/emmarex/plantdisease
 
 ## 👩‍💻 Author
 
-vani-1705 (https://github.com/vani-1705)
+Kummari Sridevi (https://github.com/kummarisridevi261)
